@@ -1,0 +1,37 @@
+* {
+    font-family: 'Lato', sans-serif;
+}
+
+#logo img {
+    max-width: 100px;
+    border-radius: 50%;
+}
+
+.col-md-12 img {
+    max-width: 100%;
+}
+
+.col-md-4 img {
+    max-width: 350px;
+    max-height: 240px;
+}
+
+h4 {
+    margin-top: 0px;
+}
+
+i {
+    padding-top: 10px;
+}
+
+body {
+    padding-bottom: 50px;
+}
+
+hr {
+    border: none;
+    height: 1px;
+    /* Set the hr color */
+    color: #333; /* old IE */
+    background-color: #333; /* Modern Browsers */
+}
